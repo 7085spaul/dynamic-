@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic-dashboard/static/css/main.6e657fec.css",
+    "main.js": "/dynamic-dashboard/static/js/main.4fb3d944.js",
+    "index.html": "/dynamic-dashboard/index.html",
+    "main.6e657fec.css.map": "/dynamic-dashboard/static/css/main.6e657fec.css.map",
+    "main.4fb3d944.js.map": "/dynamic-dashboard/static/js/main.4fb3d944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e657fec.css",
+    "static/js/main.4fb3d944.js"
+  ]
+}

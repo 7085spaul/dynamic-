@@ -1,0 +1,11 @@
+{
+  "CSPM Executive Dashboard": [
+    { "id": 1, "name": "Widget 1", "text": "Random Text 1" },
+    { "id": 2, "name": "Widget 2", "text": "Random Text 2" }
+  ],
+  "CWPP Dashboard": [
+    { "id": 3, "name": "Widget 3", "text": "Random Text 3" },
+    { "id": 4, "name": "Widget 4", "text": "Random Text 4" }
+  ]
+}
+
